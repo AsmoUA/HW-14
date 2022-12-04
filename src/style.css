@@ -52,6 +52,7 @@ html {
         background-size: cover;
         height: 100vh;
         padding-top: 30px;
+        position: relative;
     }
 
     .header-logo {
@@ -129,7 +130,7 @@ html {
 
     .lady {
         position: absolute;
-        bottom: 0px;
+        bottom: 13px;
         left: 50%;
         transform: translate(-55%, 0%);
         max-height: 208px;
@@ -535,6 +536,7 @@ html {
         background-size: cover;
         height: 100vh;
         padding-top: 30px;
+        position: relative;
     }
 
     .header-logo {
@@ -622,7 +624,7 @@ html {
 
     .lady {
         position: absolute;
-        bottom: 6px;
+        bottom: 13px;
         left: 50%;
         transform: translate(-55%, 0%);
         max-height: 208px;
